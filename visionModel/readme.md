@@ -1,1 +1,1 @@
-reference: https://pytorch.org/vision/stable/models.html#classification
+reference: https://pytorch.org/vision/stable/models.html#
